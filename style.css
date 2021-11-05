@@ -1,0 +1,160 @@
+
+
+header{
+    background-image: url(https://www.grupo-epm.com/site/portals/1/Images/Banner%20destacado%20%C3%A1tomos.jpg?ver=2020-05-04-152540-687);
+    height: 200px;
+    width: 100%;
+    margin-bottom: 70px;
+}
+
+body{
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: rgb(201, 253, 225);
+}
+table{
+    margin-top: 50px;
+    border-spacing: 5px;
+    margin-left: 55px;
+}
+body{
+    margin-bottom: 50px;
+}
+table td {
+    border-radius: 13%;
+    border-spacing: 5px!important;
+    border: 2px solid rgb(201, 253, 225);
+    margin: 10px!important;
+    width: 50px;
+    height: 50px;
+    background-color: cadetblue;
+    max-width: 50px;
+    max-height: 50px;
+    min-width: 50px;
+    min-height: 50px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table a{
+    color: black;
+	text-decoration: none;
+
+}
+
+.prata1{
+    background-color: transparent;
+    border: transparent;
+}
+.linha1{
+    margin-top: 30px;
+    margin-bottom: 30px; 
+    margin-left: 205px;
+}
+.ametais{
+    background-color: mediumseagreen;
+}
+.alcalinos{
+    background-color: orange;
+}
+
+.alcalinosTerrosos{
+    background-color: rgb(255, 243, 112);
+}
+
+.transicao{
+    background-color: palevioletred;
+}
+
+.semimetais{
+    background-color: lightseagreen;
+}
+
+.outrosMetais{
+    background-color: rgb(160, 172, 184);
+}
+
+.halogenio{
+    background-color: rgb(98, 197, 236) ;
+}
+
+.gasesNobres{
+    background-color: dodgerblue;
+}
+
+.lantanideos{
+    background-color: rgb(2, 217, 221);
+}
+
+.actinidios{
+    background-color: plum;
+}
+.container{
+    margin-top: 50px;
+}
+.element_caption_10{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color: mediumseagreen;
+}
+
+.element_caption_10_1{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+}
+
+.element_caption_10_2{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 243, 112);
+}
+
+
+.element_caption_10_3{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color: palevioletred;
+}
+
+.element_caption_10_4{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color:lightseagreen;
+}
+.element_caption_10_5{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color:rgb(160, 172, 184);
+}
+
+.element_caption_10_6{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color:rgb(98, 197, 236)
+}
+.element_caption_10_7{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color:dodgerblue;
+}
+.element_caption_10_8{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color:rgb(2, 217, 221) ;
+}
+
+.element_caption_10_9{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color:plum ;
+}
