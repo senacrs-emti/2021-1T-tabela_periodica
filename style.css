@@ -163,6 +163,7 @@ a:link, a:visited, a:active{
 	color:#000;
 }
 @media only screen and (max-width: 600px){
+
     #tabela{
         width: 100%;
         display: block;
@@ -172,41 +173,51 @@ a:link, a:visited, a:active{
     .element_caption_10{
         height: 60px;
         width: 10000px;
+        text-align: center;
     }
     .element_caption_10_1{
         height: 60px;
         width: 10000px;
+        text-align: center;
     }
     .element_caption_10_2{
         height: 60px;
         width: 10000px;
+        text-align: center;
     }
     .element_caption_10_3{
         height: 60px;
         width: 10000px;
+        text-align: center;
     }
     .element_caption_10_4{
         height: 60px;
         width: 10000px;
+        text-align: center;
     }
     .element_caption_10_5{
         height: 60px;
         width: 10000px;
+        text-align: center;
     }
     .element_caption_10_6{
         height: 60px;
         width: 10000px;
+        text-align: center;
     }
     .element_caption_10_7{
         height: 60px;
         width: 10000px;
+        text-align: center;
     }
     .element_caption_10_8{
         height: 60px;
         width: 10000px;
+        text-align: center;
     }
     .element_caption_10_9{
         height: 60px;
         width: 10000px;
+        text-align: center;
     }
 }
