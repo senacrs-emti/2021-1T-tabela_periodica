@@ -88,7 +88,7 @@ table a{
 .actinidios{
     background-color: plum;
 }
-.linhazinhas{
+#legenda{
     margin-top: 50px;
 }
 .element_caption_10{
@@ -163,7 +163,7 @@ a:link, a:visited, a:active{
 	color:#000;
 }
 @media only screen and (max-width: 600px){
-    main{
+    #tabela{
         width: 100%;
         display: block;
         float: left;
